@@ -7,5 +7,4 @@ ENV N8N_BASIC_AUTH_USER=admin
 ENV N8N_BASIC_AUTH_PASSWORD=Johan5577@@
 ENV GENERIC_TIMEZONE=Asia/Dhaka
 
-# Default command to start n8n
-CMD ["n8n", "start"]
+
